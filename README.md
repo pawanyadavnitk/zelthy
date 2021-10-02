@@ -14,20 +14,20 @@ Assignment for Zelthy Company
 
 ## 1. API
 This program fethes data from an API and writes it to an excel sheet
-### Usage:
+#### Usage:
 1. Navigate to the folder 'api'
 2. run `python -m api`
 
 ## 1. Create_file
 This program accepts text input from user and saves it in a text file.
-### Usage:
+#### Usage:
 1. Navigate to the folder 'create_folder'
 2. run `python -m create_folder`
 3. Enter text
 
 ## 1. WiFi
 Finds three available WiFi networks with the strongest signal and connect to the one where the password is provided.
-### Usage:
+#### Usage:
 1. Navigate to the folder 'wifi'
 2. run `python -m wifi`
 3. Follow the next steps
